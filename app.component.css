@@ -1,0 +1,9 @@
+.form-inline {
+    /* min-width: 50px;
+    max-width: 100px; */
+    width: auto;
+  }
+  
+  .form-group {
+    width:auto;
+  }
